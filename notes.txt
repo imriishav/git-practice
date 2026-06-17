@@ -1,2 +1,2 @@
-Learning Git basics - Day 5
-Learning Git Branching -day 6
+Learning Git basics - Day 1
+Learning Git Branching -day 2
